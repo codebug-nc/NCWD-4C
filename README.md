@@ -1,6 +1,3 @@
-# NCWD-4A
-Intro to Functions
-
 # Functions, Functions, Functions!!
 
 ## In `index.html`
