@@ -10,7 +10,7 @@
 ## In `script.js`
 ### Use the directions below to write your functions in `script.js`
 ###### Check each function as you go!
-* Write a function called `summerTime`: It should return the phrase "It's summerTime baby!"
+* Write a function called `summerTime`: It should return the phrase "It's summer time baby!"
 * Write a function called `addFive`: It should take in a number and return that number plus five.
 * Write a function called `champions`: It should return the phrase "We are the champions!!!"
 * Write a function called `subtractThree`: It should take in a number and return that number minus 3.
