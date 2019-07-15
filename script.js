@@ -5,33 +5,36 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function summertime() returns: ", summertime())
+  // console.log("Is summertime() correct:", summertime() == "It's summertime baby!");
 
 //////////////////////////////////////////////////////////////////////////
   // Write `addFive` below. 
 
 
 
-  // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function addFive(6) returns: ", addFive(10));
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log("Is addFive(6) correct:", addFive(6) == 11);
+  // console.log("Is addFive(-4) correct:", addFive(-4) == 1);
   
 //////////////////////////////////////////////////////////////////////////
-  // Write `double` below.
+  // Write the `champions` function below.
+
 
 
 
   // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function double(6) returns: ", double(6));
-  
+  // console.log("Is champions() correct:", champions() == "We are the champions!!!");
+
 //////////////////////////////////////////////////////////////////////////
-  // Write `greetMe` below.
+  // Write `subtractThree` below. 
 
 
 
 
-  // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function greetMe('Carl') returns: ", greetMe("Carl"));
-  // console.log("The function greetMe('Joe') returns: ", greetMe("Joe"));
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log("Is subtractThree(33) correct:", subtractThree(33) == 30);
+  // console.log("Is subtractThree(12) correct:", subtractThree(12) == 9);
   
 //////////////////////////////////////////////////////////////////////////
   // Write `isItLessThanTen` below.
@@ -40,8 +43,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function isItLessThanTen(3) returns: ", isItLessThanTen(3));
-  // console.log("The function isItLessThanTen(20) returns: ", isItLessThanTen(20));
+  // console.log("Is isItLessThanTen(3) correct:", isItLessThanTen(3) == "Your number is less than 10");
+  // console.log("Is isItLessThanTen(20) correct:", isItLessThanTen(20) == "Your number is not less than 10");
   
 //////////////////////////////////////////////////////////////////////////
   // Write `inHighSchool` below.
@@ -49,10 +52,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function inHighSchool(17) returns: ", inHighSchool(17));
-  // console.log("The function inHighSchool(5) returns: ", inHighSchool(5));
+  // console.log("Is inHighSchool(17) correct:", inHighSchool(17) == "High Schooler");
+  // console.log("Is inHighSchool(5) correct:", inHighSchool(5) == "Nope");
   
 //////////////////////////////////////////////////////////////////////////
   // Write `areTheySpeeding` below.
@@ -60,10 +62,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-  // Uncomment the line below, and look in the console to see if your function worked!
-  // console.log("The function areTheySpeeding(60) returns: ", areTheySpeeding(60));
-  // console.log("The function areTheySpeeding(90) returns: ", areTheySpeeding(90));
-  
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log("Is areTheySpeeding(60) correct:", areTheySpeeding(60) == "Thanks for driving safely!");
+  // console.log("Is areTheySpeeding(90) correct:", areTheySpeeding(90) == "SLOW DOWN!!");
+
+//////////////////////////////////////////////////////////////////////////
+  // Write `double` below.
+
+
+
+  // Uncomment the lines below, and look in the console to see if your function worked!
+  // console.log("Is double(6) correct:", double(6) == 12);
+  // console.log("Is double(25) correct:", double(25) == 50);
+
 //////////////////////////////////////////////////////////////////////////
   // Write `sum` below.
 
@@ -71,7 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function sum(3, 4) returns: ", sum(3, 4));
+  // console.log("Is sum(3, 4) correct:", sum(3, 4) == 7);
+  // console.log("Is sum(12, 10) correct:", sum(12, 10) == 22);
   
 //////////////////////////////////////////////////////////////////////////
   // Write `product` below.
@@ -80,6 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   // Uncomment the lines below, and look in the console to see if your function worked!
-  // console.log("The function product(8, 10) returns: ", product(8, 10));
+  // console.log("Is product(8, 10) correct:", product(8, 10) == 80);
+  // console.log("Is product(7, 4) correct:", product(7, 4) == 28);
 //////////////////////////////////////////////////////////////////////////
 });
